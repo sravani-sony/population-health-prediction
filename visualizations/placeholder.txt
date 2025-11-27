@@ -1,0 +1,1 @@
+This folder stores SHAP plots, heatmaps, and other visualization outputs.
